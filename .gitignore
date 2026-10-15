@@ -1,0 +1,17 @@
+# Archivos compilados
+**/target/
+*.class
+*.log
+
+# Configuración de VS Code
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Variables y credenciales
+.env
+.env.*
+!.env.example
